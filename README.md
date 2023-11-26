@@ -4,8 +4,10 @@
   This is a responsive Webpage. This web page was prepared using HTML-5 and CSS-3 features. it has been given dynamism with JavaScript. 
 </p>
 
-<p>Thi</p>
-Project gif
+<p>This is a responsive webpage</p>
 
-https://github.com/nazanyilmaz/Responsive-Education-Website/assets/147782488/bba21835-d57c-4a03-8a9f-0dfae768de1a
+<h3>Project Gif</h3>
+
+
+![ezgif com-optimize (10)](https://github.com/nazanyilmaz/Responsive-Education-Website/assets/147782488/a11bea99-fdb5-477e-b78b-cebbae044fdb)
 
